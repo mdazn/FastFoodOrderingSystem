@@ -1,0 +1,28 @@
+Hamburger,8.90,Food
+Cheeseburger,9.90,Food
+Hotdog,6.70,Food
+Kebab,7.80,Food
+Pizza,11.30,Food
+Roti John,9.30,Food
+Fried Chicken,9.90,Food
+Corndog,6.90,Food
+Nuggets,5.80,Food
+French Fries,4.50,Food
+Coke,3.70,Drinks
+Soda,3.70,Drinks
+Pepsi,3.70,Drinks
+Mango Shake,8.20,Drinks
+Coconut Shake,8.20,Drinks
+Banana Milkshake,9.80,Drinks
+Chocolate Milkshake,9.80,Drinks
+Oreo Milkshake,9.80,Drinks
+Ice Lemon Tea,3.50,Drinks
+Iced Milo,4.20,Drinks
+Cheesecake,6.70,Dessert
+Chocolate Cake,6.70,Dessert
+Apple Pie,5.90,Dessert
+Tiramisu,8.90,Dessert
+ABC,6.70,Dessert
+Cendol,5.90,Dessert
+Waffle,5.20,Dessert
+Sundae,4.50,Dessert

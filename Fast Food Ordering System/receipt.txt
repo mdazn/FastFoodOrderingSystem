@@ -1,0 +1,22 @@
+		FAST FOOD RESTAURANT
+--------------------------------------
+Order ID: 2247
+Date: 2022-07-19, 15:40:01.544242900
+--------------------------------------
+Customer Details:
+Name: Ahmad Khairul Azan
+Phone No: 0123456789
+Address: No 23 Lorong Bunga Matahari Taman Bunga Raya
+Option: Self-Pickup
+Pickup/Delivery Time: 9PM
+Payment Method: Cash
+--------------------------------------
+Item                    Qty   Price
+Hamburger                 1     8.9
+Cheeseburger              1     9.9
+Ice Lemon Tea             2     7.0
+Cheesecake                1     6.7
+--------------------------------------
+SUBTOTAL(RM)                   32.50
+--------------------------------------
+Note: No cutlery needed
